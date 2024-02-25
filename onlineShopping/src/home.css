@@ -1,0 +1,113 @@
+:root{
+    background-color: azure;
+  }
+  #welcome{
+   align-items: center;
+   color: rgb(18, 19, 19);
+   margin-top: 50px;
+   margin-bottom: 0px;
+   size: 50px;
+    
+  }
+  .new{
+    align-items: center;
+    color: rgb(18, 19, 19);
+    margin-top: 50px;
+    margin-bottom: 0px;
+    size: 50px;
+     
+   }
+  .we {
+    padding: 20px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 100px ;
+    max-width: 1200px;
+  }
+  
+  #welll {
+    position: relative;
+    text-align: center;
+    width: 60%;
+    padding: 15px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    display: grid;
+    place-items: center;
+   
+  }
+  
+  .button{
+    color: #ccc;
+    text-align: center;
+    width: 80%;
+    padding: 15px;
+    margin: 100px auto;
+    border: 10px solid #0c16d5;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #0c16d5;
+  }
+  
+  /* .main1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 160, 52);
+    margin-top: 30px;
+    border-radius: 10px;
+} */
+  
+  /* .wel{
+      margin-left: 100px;
+      margin-right: 100px;
+      height: 500px; 
+      display: flex;
+      justify-content: center;
+      background-size:fill;
+      background-attachment:scroll;
+      background-repeat:repeat;
+      background-position: center bottom;
+      position: center;
+    }
+    
+     
+  .we{
+      margin-top:30Px;
+      display: flex;
+      justify-content:space-around;
+  }
+  #wei{
+    display: flex;
+    justify-content:space-around;
+      float: right;
+      color: rgb(23, 49, 72);
+      margin-top: 450px;  
+  }
+   #well{
+      width: 500px;
+      height: 500px;
+      
+      
+      background-image:url(./assets/neck3.jpg);
+      background-size:cover; 
+      background-repeat:no-repeat; 
+  } 
+  #welll{
+      width: 200px;
+      height: 100px;
+      display: flex;
+      justify-content: space-around;
+      margin: 30px;
+      border-radius: 10px;
+     background-size:cover;  
+  }
+ 
+  .plus{
+      color: aliceblue;
+      margin-top: 20px;
+  }
+     */
